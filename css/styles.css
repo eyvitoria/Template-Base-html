@@ -23,5 +23,8 @@ font-size: 40px;
     text-justify: auto:
 }
 .img{
-    
+    flex-direction: row;
+}
+.form-group{
+    text-align: left;
 }
