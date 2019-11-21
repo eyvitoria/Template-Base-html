@@ -1,3 +1,16 @@
-.blog{
-    padding-left: 50%;
+.navbar-brand{
+    padding-left: 50px;
+}
+.breadcrumb{
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-left: 405px;
+    width: 58%;
+}
+.breadcrumb-item  {
+font-size: 40px;
+}
+.col-12{
+    align-items: center;
+    width: 50px;
 }
