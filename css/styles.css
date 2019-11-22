@@ -18,13 +18,30 @@ font-size: 40px;
     flex-direction: row;
 }
 .text{
-    margin-left: 3%;
+    margin-left: 0%;
     text-align: center;
     text-justify: auto:
 }
 .img{
+    margin-left: -70px;
     flex-direction: row;
 }
 .form-group{
     text-align: left;
+}
+.col-12{
+    margin-left: -120px;
+}
+.contatos{
+    width: 450px;
+}
+.lugar{
+    margin-left: -200px;
+}
+.col-4{
+    text-align: left;
+    margin-top: 50px;
+}
+.esquerda{
+    margin-left: -20px;
 }
